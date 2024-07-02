@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an undergrad in Computer Science & Engineering at SRM University, I'm on an exciting journey to explore the world of technology. Proficient in C/C++, Python, and Web Development, I enjoy building innovative solutions across the digital landscape. Beyond coding, I excel as a National Badminton Player, fostering teamwork and discipline. Passionate about growth and leveraging AI/ML, let's connect and learn together! 🚀 #ComputerScience #SoftwareDeveloper #WebDevelopment #AI #ML #BadmintonPlayer
+As an undergrad in Computer Science & Engineering at SRM University, I'm on an exciting journey to explore the world of technology. Proficient in C/C++, Python, and Web Development, I enjoy building innovative solutions across the digital landscape. Beyond coding, I excel as a National Badminton Player, fostering teamwork and discipline. Passionate about growth and leveraging AI/ML, let's connect and learn together!
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@ As an undergrad in Computer Science & Engineering at SRM University, I'm on an e
 ---
 [![](https://visitcount.itsvg.in/api?id=Atharv1610&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
